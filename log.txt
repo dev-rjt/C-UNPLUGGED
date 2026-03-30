@@ -3,3 +3,10 @@
 3.Add_Song_To_Existing_Album
 15.EXIT
 
+5.List_All_Albums
+4.Remove_Song_From_Existing_Album
+5.List_All_Albums
+5.List_All_Albums
+4.Remove_Song_From_Existing_Album
+15.EXIT
+
